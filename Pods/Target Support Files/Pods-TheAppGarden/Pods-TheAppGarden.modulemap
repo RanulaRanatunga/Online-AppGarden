@@ -1,0 +1,6 @@
+framework module Pods_TheAppGarden {
+  umbrella header "Pods-TheAppGarden-umbrella.h"
+
+  export *
+  module * { export * }
+}

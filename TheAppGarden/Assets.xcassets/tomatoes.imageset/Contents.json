@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "78-785426_lettuce-clipart-single-vegetable-tomato-transparent-png.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "78-785426_lettuce-clipart-single-vegetable-tomato-transparent-png-1.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "78-785426_lettuce-clipart-single-vegetable-tomato-transparent-png-2.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
